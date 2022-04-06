@@ -1,0 +1,16 @@
+{
+  "name": "com.agava.assetstream",
+  "version": "1.0.0",
+  "displayName": "Asset Stream",
+  "type": "library",
+  "unity": "2020.3",
+  "description": "Yandex Games Unity SDK for the WebGL platform.",
+  "license": "MIT",
+  "samples": [
+    {
+      "displayName": "Shop Sample",
+      "description": "Infinite scrolling mobile shop.",
+      "path": "Samples~/Shop"
+    }
+  ]
+}
