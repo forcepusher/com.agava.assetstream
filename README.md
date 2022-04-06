@@ -1,4 +1,4 @@
-# com.agava.assetstream  
+# Package is still in development. Check back later. com.agava.assetstream  
   
 Make sure you have standalone [Git](https://git-scm.com/downloads) installed first.  
 In Unity, open "Window" -> "Package Manager".  
